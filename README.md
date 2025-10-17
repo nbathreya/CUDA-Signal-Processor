@@ -1,6 +1,6 @@
 # GPU-Accelerated Signal Processing
 
-Educational implementation of signal detection algorithms on CUDA. Demonstrates 10-50x speedup over CPU for large-scale time-series analysis.
+Implementation of signal detection algorithms on CUDA. Demonstrates 10-50x speedup over CPU for large-scale time-series analysis.
 
 ## Algorithms
 
