@@ -50,7 +50,7 @@ events, elapsed = processor.threshold_detect_gpu(signal)
 ```
 CPU                          GPU
 ┌──────────┐                ┌──────────┐
-│ Signal   │──transfer──────►│ Device   │
+│ Signal   │──transfer─────►│ Device   │
 │ (NumPy)  │                │ Memory   │
 └──────────┘                └──────────┘
                                   │
