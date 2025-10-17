@@ -2,6 +2,10 @@
 
 Implementation of signal detection algorithms on CUDA. Demonstrates 10-50x speedup over CPU for large-scale time-series analysis.
 
+![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+
 ## Algorithms
 
 **CUSUM Detection** - Cumulative sum for change-point detection  
